@@ -1,6 +1,6 @@
 
 # 📘 Taller 2: Python
-## Estructuras de Control y Funciones en Python
+Estructuras de Control y Funciones en Python
 
 ## SECCIÓN 1: MANEJO DE VARIABLES Y ENTRADA DE DATOS
 
