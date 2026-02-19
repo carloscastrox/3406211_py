@@ -13,11 +13,13 @@ Ejercicio 1.4 – Validador de contraseña segura: Implementar un sistema que va
 
 Ejercicio 1.5 – Convertidor de unidades con menú: Desarrollar un convertidor de unidades con un menú interactivo que ofrezca tres opciones: 1. Convertir Celsius a Fahrenheit, 2. Convertir kilómetros a millas, 3. Convertir kilogramos a libras. El usuario debe seleccionar una opción, ingresar el valor a convertir y el programa mostrará el resultado con dos decimales.
 
---
+---
+
 ## SECCIÓN 2: IMPLEMENTACIÓN DE CONDICIONALES
 Ejercicio 2.1 – Clasificación de edades: Crear un algoritmo que solicite la edad de una persona y la clasifique en una de las siguientes categorías: niño (0-12 años), adolescente (13-17 años), adulto (18-64 años) o adulto mayor (65 años o más). Mostrar la categoría correspondiente.
 
-# Ejercicio 2.2 – Menú de opciones básico: Implementar un menú interactivo con tres opciones: 1. Saludar, 2. Despedirse, 3. Salir. El programa debe mostrar el menú, leer la opción seleccionada y ejecutar la acción correspondiente utilizando estructuras condicionales if-elif-else.
+Ejercicio 2.2 – Menú de opciones básico: Implementar un menú interactivo con tres opciones: 1. Saludar, 2. Despedirse, 3. Salir. El programa debe mostrar el menú, leer la opción seleccionada y ejecutar la acción correspondiente utilizando estructuras condicionales if-elif-else.
+
 ---
 
 ## 👨🏻‍🏫 Autor
