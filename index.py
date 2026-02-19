@@ -1,5 +1,5 @@
 print("=======================================================================")
-print("Taller 2: ")
+print("Taller 2: Estructuras de Control y Funciones ")
 print("Creado por Carlos Andrés Castro Jaramillo")
 print("=====================================================================\n")
 
@@ -44,3 +44,4 @@ print(list)
 #     "electric": True
 # }
 # print(len(car))
+
