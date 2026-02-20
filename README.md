@@ -29,6 +29,15 @@ Crear un algoritmo que solicite la edad de una persona y la clasifique en una de
 ### 👨‍💻 Ejercicio 2.2 – Menú de opciones básico: 
 Implementar un menú interactivo con tres opciones: 1. Saludar, 2. Despedirse, 3. Salir. El programa debe mostrar el menú, leer la opción seleccionada y ejecutar la acción correspondiente utilizando estructuras condicionales if-elif-else.
 
+### 👨‍💻 Ejercicio 2.3 – Calculadora con menú mejorado: 
+Expandir la calculadora básica del ejercicio 1.2 agregando un menú que permita al usuario realizar múltiples operaciones sin salir del programa. El menú debe incluir las cuatro operaciones básicas y una opción para salir.
+
+### 👨‍💻 Ejercicio 2.4 – Sistema de calificaciones con letras: 
+Desarrollar un sistema que convierta una calificación numérica (0-100) a su equivalente en letras según la siguiente escala: A (90-100), B (80-89), C (70-79), D (60-69), F (0-59). Validar que la nota ingresada esté dentro del rango permitido.
+
+### 👨‍💻 Ejercicio 2.5 – Simulador de descuentos por categoría: 
+Crear un simulador de descuentos que solicite al usuario su categoría (A, B, C) y el monto de compra. Aplicar los siguientes descuentos según categoría: A=20%, B=15%, C=10%. Para cualquier otra categoría no aplicar descuento. Mostrar el monto final a pagar y la cantidad ahorrada.
+
 ---
 
 ## ©️ Autor
