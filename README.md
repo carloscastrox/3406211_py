@@ -57,6 +57,26 @@ Desarrollar un programa que solicite al usuario un número y genere su tabla de 
 ### 👨‍💻 Ejercicio 3.5 – Eliminador de duplicados en lista: 
 Crear un algoritmo que permita al usuario ingresar 10 números (que pueden repetirse) y luego muestre una lista sin elementos duplicados. Implementar la lógica de eliminación de duplicados usando ciclos y una lista auxiliar, sin utilizar funciones de conjuntos.
 
+---
+## SECCIÓN 4: GESTIÓN DE LISTAS Y DICCIONARIOS
+Almacenamiento, consulta, modificación y eliminación
+
+### 👨‍💻 Ejercicio 4.1 – Sistema de lista de compras: 
+Implementar un sistema de lista de compras que permita al usuario agregar productos, eliminar productos específicos y mostrar todos los productos actuales. Utilizar una lista para almacenar los elementos.
+
+### 👨‍💻 Ejercicio 4.2 – Directorio de contactos: 
+Crear un directorio de contactos utilizando diccionarios, donde cada contacto tenga un nombre (clave) y un número telefónico (valor). El sistema debe permitir agregar nuevos contactos, buscar contactos por nombre y eliminar contactos existentes.
+
+### 👨‍💻 Ejercicio 4.3 – Gestor de inventario de productos: 
+Dada una lista de diccionarios donde cada diccionario representa un producto con las claves "nombre", "precio" y "stock", crear un programa que permita actualizar el precio de un producto específico buscándolo por su nombre.
+
+### 👨‍💻 Ejercicio 4.4 – Analizador estadístico de listas numéricas: 
+Desarrollar un programa que solicite al usuario ingresar una lista de números separados por comas. El algoritmo debe calcular y mostrar: el valor máximo, el valor mínimo, el promedio y la suma total de todos los números.
+
+### 👨‍💻 Ejercicio 4.5 – Comparador avanzado de listas: 
+Implementar un programa que permita al usuario ingresar dos listas de elementos. El algoritmo debe mostrar: los elementos comunes a ambas listas, los elementos únicos de la primera lista y los elementos únicos de la segunda lista, implementando esta lógica con ciclos sin usar funciones de conjuntos.
+
+
 
 
 ---
