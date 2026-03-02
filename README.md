@@ -95,6 +95,29 @@ Crear una función llamada es_palindromo que reciba un texto como parámetro y r
 ### 👨‍💻 Ejercicio 5.5 – Calculadora factorial recursiva: 
 Implementar una función llamada factorial que calcule el factorial de un número usando recursión. La función debe recibir un número entero positivo y retornar su factorial. Incluir validación para números negativos.
 
+---
+## SECCIÓN 6: MINI-TALLER INTEGRADOR
+### 👨‍💻 Sistema de gestión de biblioteca
+Descripción del sistema:
+Desarrollar un programa completo en Python para gestionar los libros de una biblioteca, aplicando todos los conceptos aprendidos en las secciones anteriores. El sistema debe permitir realizar operaciones básicas de mantenimiento de un catálogo bibliográfico.
+
+# Requisitos funcionales:
+1.	Estructura de datos: Utilizar una lista de diccionarios para almacenar la información de los libros. Cada libro debe contener: id (numérico autoincremental), título, autor, año de publicación y estado de disponibilidad (True/False).
+2.	Funciones principales:
+  o	agregar_libro(): Permite registrar un nuevo libro validando que el año sea numérico y mayor a 1900.
+  o	mostrar_libros(): Muestra todos los libros en formato legible: "ID: 1 - 'Cien años de soledad' (Gabriel García Márquez, 1967) [Disponible]"
+  o	buscar_libro(): Permite buscar libros por título o autor, mostrando coincidencias parciales.
+  o	prestar_libro(id): Cambia el estado de disponibilidad a False si el libro existe y está disponible.
+  o	devolver_libro(id): Cambia el estado de disponibilidad a True.
+  o	eliminar_libro(id): Elimina un libro solo si no está prestado actualmente.
+  o	menu_principal(): Implementa un menú interactivo con las opciones anteriores utilizando while para repetir hasta que se seleccione salir.
+3.	Funciones adicionales desafiantes:
+  o	libros_por_autor(autor): Lista todos los libros de un autor específico.
+  o	estadisticas(): Muestra estadísticas del sistema: cantidad total de libros, libros disponibles y libros prestados.
+  o	exportar_a_txt(): Guarda todos los libros en un archivo de texto llamado "biblioteca.txt".
+# Entregables esperados:
+•	Archivo Python ejecutable con el nombre biblioteca.py
+•	Código completo con comentarios explicativos en cada función
 
 
 ---
