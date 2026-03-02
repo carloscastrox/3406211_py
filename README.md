@@ -116,8 +116,8 @@ Desarrollar un programa completo en Python para gestionar los libros de una bibl
   o	estadisticas(): Muestra estadísticas del sistema: cantidad total de libros, libros disponibles y libros prestados.
   o	exportar_a_txt(): Guarda todos los libros en un archivo de texto llamado "biblioteca.txt".
 ## Entregables esperados:
-*•	Archivo Python ejecutable con el nombre biblioteca.py.
-*•	Código completo con comentarios explicativos en cada función.
+*	Archivo Python ejecutable con el nombre biblioteca.py.
+* Código completo con comentarios explicativos en cada función.
 
 
 ---
