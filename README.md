@@ -127,23 +127,23 @@ Desarrollar un programa completo en Python para gestionar los libros de una bibl
 ├─ requirements.txt             # Enunciados de los ejercicios
 ├─ taller/                      # Paquete principal (código fuente)
 │  ├─ seccion1/                 # MANEJO DE VARIABLES Y ENTRADA DE DATOS
-│  │  ├─ algoritmo_01.py
-│  │  ├─ algoritmo_02.py
-│  │  ├─ algoritmo_03.py
-│  │  ├─ algoritmo_04.py
-│  │  └─ algoritmo_05.py
+│  │  ├─ algoritmo_1.1.py
+│  │  ├─ algoritmo_1.2.py
+│  │  ├─ algoritmo_1.3.py
+│  │  ├─ algoritmo_1.4.py
+│  │  └─ algoritmo_1.5.py
 │  ├─ seccion2/                 # IMPLEMENTACIÓN DE CONDICIONALES
-│  │  ├─ algoritmo_06.py
-│  │  ├─ algoritmo_07.py
-│  │  ├─ algoritmo_08.py
-│  │  ├─ algoritmo_09.py
-│  │  └─ algoritmo_10.py
+│  │  ├─ algoritmo_2.1.py
+│  │  ├─ algoritmo_2.2.py
+│  │  ├─ algoritmo_2.3.py
+│  │  ├─ algoritmo_2.4.py
+│  │  └─ algoritmo_2.5.py
 │  ├─ seccion3/                 # USO DE CICLOS FOR Y WHILE
-│  │  ├─ algoritmo_11.py
-│  │  ├─ algoritmo_12.py
-│  │  ├─ algoritmo_13.py
-│  │  ├─ algoritmo_14.py
-│  │  └─ algoritmo_15.py
+│  │  ├─ algoritmo_3.1.py
+│  │  ├─ algoritmo_3.2.py
+│  │  ├─ algoritmo_3.3.py
+│  │  ├─ algoritmo_3.4.py
+│  │  └─ algoritmo_3.5.py
 │  ├─ seccion4/                 # GESTIÓN DE LISTAS Y DICCIONARIOS
 │  │  ├─ algoritmo_4.1.py
 │  │  ├─ algoritmo_4.2.py
